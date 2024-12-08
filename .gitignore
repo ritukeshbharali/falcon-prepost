@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Output files
+*.mesh
+*.msh
+*.ipnodes
+
 # Distribution / packaging
 .Python
 build/
